@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head><title>blue print of china destruction</title>
+    <style>#sec{
+border-style:dashed;
+border-color:orange;
+border-width:14px;
+border-radius:15px;
+color:#66FF00;
+background-color: #E6E6FA;
+margin-bottom:20px;
+text-shadow:5px 2px 4px grey;
+}
+.first{
+border-style:dashed;
+border-color:blue;
+border-width:5px;
+border-radius:15px;
+color:maroon;
+
+background:linear-gradient(orange,#fff,green);
+
+
+
+margin-bottom:10px;
+letter-spacing:4px;
+text-indent:20px;
+
+
+}
+.third{
+    border-style:dashed ;
+    border-width:5px;
+    border-radius:15px;
+    border-color:#66FF00;
+    margin-top:15px;
+    background-color: #E6E6FA;
+ text-indent:10px;
+background:linear-gradient(#9966CC,#4169E1,black ,orange);
+}
+.parallex1{
+    background-image:url(https://www.dropbox.com/s/3b3f7m9n0hht4l1/Screenshot_20200628-152559~3_compress40.jpg?raw=1);
+    min-height:500px;
+    background-size:contain;
+    background-position:center;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+}
+.parallex2{
+    background-image:url(https://www.dropbox.com/s/rgj1afv9hosuyim/Screenshot_20200628-152446~2_compress49.jpg?raw=1);
+    min-height:500px;
+    background-size:contain;
+    background-position:center;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+}
+.parallex3{
+    background-image:url(https://www.dropbox.com/s/a40sl1kt5xr4eb8/Screenshot_20200628-152645~2_compress10.jpg?raw=1);
+    min-height:500px;
+    background-size:contain;
+    background-position:center;
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+}
+
+.one{
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/1/17/Ashoka_Chakra.svg );
+min-height:500px;
+background-attachment:fixed;
+background-repeat:no-repeat;
+background-size:contain;
+background-position:center;
+transition:transform 10sec;
+}
+.one:hover{
+    transform:rotate(5760deg);
+} </style></head>
+    <body style="background-color:black" >
+ <div id="sec" >
+<h1> <p>Blue print of china downfall👎</p></h1>
+  </div>
+   
+<h4 class="first"><p>1.We all know it very well that simply by boycotting china we will only distrupt 3% of their revenue but if we took over their market by launching our country made products to the world which would be cheaper like china made but will also have much better quality than their's.</p>
+    <p>2.Lot of our people also say that it can not happen in our country as they say that we are very lazy people and not at all punctual,I also do agree with them but that does not mean that we can not change our habits we can for that we should have patriotism in our ❤️ heart we should do any job with 100% punchuality thinking that it will make our country prosper.</p><div class="one"></div>
+    <p>3.I believe that we are able to do lot more than what we think we can do. We have to become bold in our decisions and do anything keeping in mind the good of our nation.</p>
+    <p>4.We should keep our nation above anything else their should be only one religion that is Indian🇮🇳 in our heart.</p>
+   <h4 class="third" align="center" style="color:white">If they get only some guidance they can do wonders for us <br />
+       
+   <p> 1. You might know that 40% of the totall work force that worked on Burj khalifa were Indians</p><div class="parallex1"></div>
+       
+   <p> 2.You also know very well about <b>Sunder Pichai</b> who is current Google CEO</p><div class="parallex2"></div>
+       
+   <p> 3.Satya Nadella CEO of Microsoft</p>
+  <div class="parallex3"></div>
+       
+</h4>
+  
+    </body>
+</html>
